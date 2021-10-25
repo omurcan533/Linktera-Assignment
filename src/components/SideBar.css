@@ -1,0 +1,82 @@
+.contoinerr{
+    background-color:royalblue;
+    display: flex;
+    flex-direction: column;
+    border-top-left-radius: 0vh;
+    width: 30vh;
+    height: 100vh;
+    border: 0px solid black;
+    
+}
+.ustBar{
+    flex:1;
+    
+    margin-left: auto;
+    color:yellow;
+    text-align: center;
+    border-top-left-radius: 2vh;
+    margin-bottom: 5%;
+  }
+  .ustbar-name-design{
+    border: 1px solid cornflowerblue;
+    background-color:cornflowerblue;
+    margin-right: 1rem;
+    position: relative;
+    top:20px;
+  }
+  .ortaBar{
+      flex:1;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    position: relative;
+    top:50px;
+    
+    
+  }
+  .altBar{
+    flex:1;
+    border: 1px solid cornflowerblue;
+    margin-right: 1rem;
+    margin-bottom: 11%;
+    background-color:cornflowerblue;
+}
+  .image{
+      padding: 0,5pc;
+      margin-top:2pc;
+  }
+  .LogoRight{
+    inline-size:9%;
+    margin-left: 2pc;
+    margin:6%;
+    
+  }
+  .LogoRight2{
+      inline-size: 7%;
+      margin-bottom: 15%;
+      margin-left: 0%;
+      padding: 1%;
+  }
+  .cikisİmagee{
+      
+    inline-size:11%; 
+    margin-bottom: 1%;
+    margin-right: 39%;
+  }
+  .logoText{
+      display: flex;
+      margin-top:-7%
+    }
+    .textColor{
+        color:white;
+        /* border:1px solid grey;
+        border-radius:2mm;
+        border-width: 1mm;
+        padding:1mm;
+        margin:4mm; */
+    }
+    
+  .AltBaslik{
+    display: flex;
+    margin-top:-7%;
+    
+  }

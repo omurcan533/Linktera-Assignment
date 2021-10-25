@@ -1,0 +1,212 @@
+.home{
+    flex:1;
+    background-color:lightsteelblue;
+    width:100pc;
+    height: 100vh;
+    text-align: center;
+    border-top-right-radius: 0rem;
+    
+
+    }
+    .header{
+        
+        border: 1px solid grey;
+        background-color:#e9e9e9;
+        margin-right: 10%;
+        margin-left: 10%;
+        display:flex;
+        justify-content: space-between;
+    }
+    .duyurularPng{
+        position: relative;
+        right: 25vh;
+        top:4vh;
+    }
+    .haberler{
+        position: relative;
+        border: 0px solid grey;
+        background-color:white;
+        border-radius: 1ch;
+        margin-right: 29%;
+        width: 51pc;
+        margin-top:3pc;
+        height:22pc;
+        left:10%;
+    }
+    .dogumGunleri{
+        position: relative;
+        border: 0px solid grey;
+        background-color:white;
+        border-radius: 1ch;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 15pc;
+        height: 51ch;
+        left: 62pc;
+        bottom:219ch;
+    }
+    #dogumGunleriPng{
+        display: flex;
+        position: relative;
+        flex-direction: column;
+        left:5mm;
+        top:2mm;
+        
+        
+    }
+    #dogumGunleriText{
+        color:gray;
+        position: relative;
+        right: 6mm;
+        top: 4mm;
+    }
+    #dogumGunuSend{
+        position: relative;
+        left:3pc;
+        bottom:43%;
+    }
+    .aramızaKatılanlar{
+        position: relative;
+        border: 0px solid grey;
+        background-color:white;
+        border-radius: 1ch;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 15pc;
+        height: 44ch;
+        left: 62pc;
+        bottom:217ch;
+    }
+    #aramızaKatılanlarPng{
+        display: flex;
+        position: relative;
+        flex-direction: column;
+        left:2mm;
+    }
+    .takvim{
+        position: relative;
+        border: 0px solid grey;
+        background-color:white;
+        border-radius: 1ch;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 5cm;
+        height: 24ch;
+        left: 78pc;
+        bottom:157pc;
+    }
+    .acıkPozisyonlar{
+        position: relative;
+        border: 0px solid grey;
+        background-color:white;
+        border-radius: 1ch;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 5cm;
+        height: 31ch;
+        left: 78pc;
+        bottom:156pc;
+    }
+    .acıkPozisyonlar2{
+        position: relative;
+        border: 0px solid grey;
+        background-color:#f2f2f2;
+        border-radius: 0ch;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 10%;
+        height: 21%;
+        left: 79%;
+        bottom:169pc;
+    }
+    #acıkPozisyonlar2{
+        position: relative;
+        flex-direction: column;
+        text-align:start;
+        left: 1mm;
+        color:gray;
+        top:2mm;
+        
+    }
+    .ilanlar{
+        position: relative;
+        border: 0px solid grey;
+        background-color:white;
+        border-radius: 1ch;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 5cm;
+        height: 38ch;
+        left: 78pc;
+        bottom:286%;
+    }
+    #ilanlar2{
+        position: relative;
+        top:5%;
+    }
+    .haber1{
+        position: relative;
+        bottom:18pc; 
+        right: 34pc;
+    }
+    #haber1{
+        font-size:12px ;
+        font-family:sans-serif ;
+        color:gray ;
+        position: relative;
+        left:22pc ;
+        bottom:27pc ;
+        width:33mm ;
+
+    }
+    .haber2{
+        position: relative;
+        bottom:33pc;
+        right: 10pc;
+        
+    }
+    #haber2{
+        font-size: 12px;
+        font-family: sans-serif;
+        color:gray;
+        position: relative;
+        bottom: 42pc;
+        left:47pc;
+        width: 33mm;
+    }
+    .haber3{
+        position: relative;
+        bottom:40pc;
+        right: 34pc;
+    }
+    #haber3{
+        font-size: 12px;
+        font-family: sans-serif;
+        color:gray;
+        position: relative;
+        bottom:49pc;
+        left:22pc;
+        width: 33mm;
+    }
+    .haber4{
+        position: relative;
+        bottom: 55pc;
+        right: 10pc;
+    }
+    #haber4{
+       
+        font-size: 12px;
+        font-family: sans-serif;
+        color: gray;
+        position: relative;
+        left: 47pc;
+        bottom: 64pc;
+        width: 33mm;
+    }
+    
